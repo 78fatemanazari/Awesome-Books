@@ -1,134 +1,128 @@
 <a name="readme-top"></a>
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [📹 Video Description](#video-description)
+    - [Key Futures](#key-futures)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
+  - [Clone the repository](#Clone-the-repository)
   - [Setup](#setup)
   - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
-- [👤 Author](#author)
-- [🔭 Future Features](#future-features)
+- [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Portfolio <a name="about-project"></a>
 
-**Portfolio**  is a project to showcase all of my recent projects. It maitains the information about my projects, the gallant informatin about me, and the link to my resume.
+
+# 📖 Awesome Books Proyect<a name="Awesome Books"></a>
+
+**In this project I show what I learned during the first day in the second module** 
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-  </ul>
-</details>
-
-### Key Features <a name="key-features"></a>
-
-- **Header Section**
-- **Headline Section**
-- **Collaboration Button**
-- **Works Section**
-- **About Me Section**
-- **Contact Form**
-- **Footer Section**
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Key Futures <a name="key-futures"></a>
+
+- **The pertinent corrections requested by the reviewer will be added**
+- **More animation**
+- **better structure**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Here is the link to the live experience](https://78fatemanazari.github.io/Portfolio/).
+- [See Live Demo](https://andresespi.github.io/AwesomeBooks/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
+### Setup
 
-To get a local copy up and running, follow these steps.
+Ensure you have the following software installed on your machine:
 
 ### Prerequisites
 
-In order to run this project you need:
-
-- A web browser to view output e.g [Google Chrome](https://www.google.com/chrome/).
-- An IDE e.g [Visual studio code](https://code.visualstudio.com/).
-- Git
-- Github
-
-
-### Setup
-
-Clone this repository to your desired folder or download the Zip folder:
-
-```
-git clone git@github.com:78fatemanazari/Portfolio.git
-```
-
-- Navigate to the location of the folder in your machine:
-
-**``cd Portfolio``**
+- **code editor(I recommend Visual Studio Code )**
+- **Git**
+- **IDE (Integrated Development Environment) to edit the code**
+- **Browser to run the website**
 
 ### Install
 
-Install this project with:
+Open a command line or terminal on your machine.
 
-- You can deploy it with your hosting provider of your choice.
+Navigate to the directory where you want to clone the repository. You can use the cd command followed by the directory path.
+
+Run the following command to clone the repository:
+
+- **git clone https://github.com/78fatemanazari/Awesome-Books.git**
+
+This command will create a new directory called "animePage" and download the files from the repository into it.
 
 ### Usage
 
-To run the project, follow these instructions:
+Once you've cloned the repository, you can open it in your code editor or integrated development environment (IDE) to make any necessary adaptations.
 
-- To demonstrate your HTML & CSS skills.
+To run the project, you must follow the instructions provided in the project documentation or README file. Usually, a specific command will be specified to start the project. For example, if the project uses a local web server, you can run the following command:
 
-### Run tests
+- **npm start**
 
-To run tests, run the following command:
+Asegúrate de cumplir con todos los requisitos previos y dependencias antes de ejecutar el proyecto.
 
-- Track HTML linter errors run:
-```
-npx hint .
-```
-- Track CSS linter errors run:
-```
-npx stylelint "**/*.{css,scss}"
-```
 
-### Deployment <a name="deployment"></a>
+### Run test
 
-You can deploy this project using:
-- GitHub pages
+Make sure you meet all the prerequisites and dependencies before running the project.
+
+- **npm test**
+
+This command will run the tests defined in the project and display the results in the terminal. Make sure all test dependencies are installed before running this command.  
+
+### Deployment
+
+The deployment of the project will depend on your needs and the implementation platform you want to use. Here are some general steps for deployment:
+
+- Make sure you meet the project-specific requirements and configurations for the production environment.
+- Choose a deployment platform or hosting service that fits your needs (for example, Heroku, AWS, Google Cloud, etc.).
+- Follow the documentation or guides of the selected platform to implement your project. This may involve creating a new app or project, configuring deployment settings, and uploading the project files.
+- Run extensive tests in the production environment to make sure everything works correctly.
+- Once you're happy with the deployment, you can share the deployed project by providing the deployment URL or making it publicly accessible as needed.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👤 Author <a name="author"></a>
 
-👤 **Fatema Nazari**
+## 👥 Authors <a name="AndresEspi"></a>
+
+👤 **Author1**
 
 - GitHub: [@78fatemanazari](https://github.com/78fatemanazari)
 - Twitter: [@fati_nazari78](https://twitter.com/fati_nazari78?s=31)
 - LinkedIn: [78fatemanazari](https://www.linkedin.com/in/78fatemanazari)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+👤 **Author2**
 
-## 🔭 Future Features <a name="future-features"></a>
+- GitHub: [@githubhandle](https://github.com/AndresEspi)
+- Twitter: [@twitterhandle](https://twitter.com/Andres_Esp1nosa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/andres-espinosa-3bba67271/)
 
-- [ ] **Finish Mobile Version Portfolio**
+👤 **Author3**
+
+- GitHub: [@githubhandle](https://github.com/AndresEspi)
+- Twitter: [@twitterhandle](https://twitter.com/Andres_Esp1nosa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/andres-espinosa-3bba67271/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,36 +130,30 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
+Feel free to check the [issues page](https://github.com/AndresEspi/animePage/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
-Give a ⭐️ if you like this project!!
+If you find this project useful, please consider supporting it. Your support means a lot and helps motivate me to continue improving.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- Thanks to my learning partners.
-- Thanks to the Microverse team for the great curriculum.
-- Thanks to the Code Reviewer(s) for the insightful feedbacks.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## ❓ FAQ <a name="faq"></a>
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
+I would like to thank .....
+- **The Microverse team**
+- **All my reviewers**
+- **My standup teammates**
+- **My coding partners**
+- **My morning session teammates**
+- **My Standup session teammates**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 📝 License <a name="license"></a>
 
